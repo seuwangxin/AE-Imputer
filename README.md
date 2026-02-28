@@ -19,8 +19,9 @@ GPU-enabled PyTorch version (recommended)
 
 Here are the install commands of PyTorch. Scroll down for the step-by-step instructions.
 
-1. **Step-by-step instructions of installing PyTorch**
-   1. **Install Miniconda**
+**1 Step-by-step instructions of installing PyTorch**
+
+**1.1 Install Miniconda**
 
 Miniconda is the recommended approach for installing PyTorch with GPU support. It creates a separate environment to avoid changing any installed software in your system. This is also the easiest way to install the required software especially for the GPU setup. Download the Miniconda Windows Installer (https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86\_64.exe) or the Miniconda Linux Installer (https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86.sh). Follow the on-screen instructions and choose the default options.
 
@@ -62,7 +63,7 @@ You should download the AE-Imputer v1.0 package. If under the Windows operating 
 
 *phim --h (Command to view how to use the software)*
 
-1. **Usage**
+**3 Usage**
 
 **3.1 For the Windows operating system**
 
