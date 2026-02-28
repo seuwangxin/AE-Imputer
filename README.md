@@ -9,7 +9,7 @@ Maize392: https://doi.org/10.1016/j.molp.2022.11.004<br>
 Maize945: https://doi.org/10.1111/pbi.70011<br>
 Pine926: https://doi.org/10.1111/j.1469-8137.2011.04038.x<br>
 
-**The user manual of AE-Imputer v1.0**
+### The user manual of AE-Imputer v1.0
 
 System Requirements:
 
