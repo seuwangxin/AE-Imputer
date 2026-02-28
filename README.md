@@ -135,7 +135,7 @@ The introduction of different parameters in the above commands is as follows:
 
 6. --no-index: Specifies that the input file has no index. (By default, the first column is read as the index.)
 
-![](data:image/png;base64...)
+![Fig 1](images/fig1.png)
 
 Fig. 1 | Examples of the file format. **a,** The input example of AE-Imputer. **b,** The output example of AE-Imputer. The first row of the data records the name of each trait, and the first column records the ID of each sample.
 
