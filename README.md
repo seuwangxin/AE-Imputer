@@ -1,4 +1,4 @@
-# AE-Imputer: An autoencoder-based tool for accurate imputation of phenotypes in plants
+# AE-Imputer: Autoencoder-based imputation boosts multi-trait phenotype recovery and downstream genetic analyses in crop breeding
 ### The Python project "AE-Imputer" can be used to impute multi-trait phenotypes in plants. More information can be found in the user manual.
 ## The masked data that support the findings of this study are available in the "Data" directory.
 The original data is referenced as follows:<br>
